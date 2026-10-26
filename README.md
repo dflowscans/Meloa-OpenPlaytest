@@ -6,3 +6,7 @@ If you're the developer of the game and want me to take down the repository feel
 ---
 
 The Windows version of the game has not been tested. If you encounter any issues with it feel free to contact me on discord or open an issue.
+
+## Download:
+
+Both the Linux and Windows executables are in the latest release.
